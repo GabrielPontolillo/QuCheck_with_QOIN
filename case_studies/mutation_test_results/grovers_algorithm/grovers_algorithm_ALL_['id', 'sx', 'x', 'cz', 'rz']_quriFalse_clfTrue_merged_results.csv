@@ -1,0 +1,61 @@
+Mutant Name,Number of Properties,Number of Inputs,Number of Measurements,Mode,Result,Number of Circuits Executed,Number of Unique Failed Properties,Number of Failed Properties,Unique Failed Properties,Time Taken
+grovers_algorithm_m0,3,200,3000,IDEAL,Fail,465,3,460,GroversAlgorithmLowerRegisterMinus: 200 & GroversAlgorithmMostFrequentMarked: 180 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 80,237.40711092948916
+grovers_algorithm_m0,3,200,3000,NOISE,Fail,465,3,481,GroversAlgorithmLowerRegisterMinus: 200 & GroversAlgorithmMostFrequentMarked: 200 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 81,237.40711092948916
+grovers_algorithm_m0,3,200,3000,QOIN,Fail,465,3,455,GroversAlgorithmLowerRegisterMinus: 200 & GroversAlgorithmMostFrequentMarked: 174 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 81,237.40711092948916
+grovers_algorithm_m0,3,200,3000,HYBRID,Fail,465,3,454,GroversAlgorithmLowerRegisterMinus: 200 & GroversAlgorithmMostFrequentMarked: 174 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 80,237.40711092948916
+grovers_algorithm_m1,3,200,3000,IDEAL,Fail,466,2,56,GroversAlgorithmMostFrequentMarked: 34 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 22,229.40867710113525
+grovers_algorithm_m1,3,200,3000,NOISE,Fail,466,3,302,GroversAlgorithmLowerRegisterMinus: 177 & GroversAlgorithmMostFrequentMarked: 12 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 113,229.40867710113525
+grovers_algorithm_m1,3,200,3000,QOIN,Fail,466,3,217,GroversAlgorithmLowerRegisterMinus: 82 & GroversAlgorithmMostFrequentMarked: 29 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 106,229.40867710113525
+grovers_algorithm_m1,3,200,3000,HYBRID,Fail,466,3,169,GroversAlgorithmLowerRegisterMinus: 83 & GroversAlgorithmMostFrequentMarked: 4 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 82,229.40867710113525
+grovers_algorithm_m2,3,200,3000,IDEAL,Fail,400,3,516,GroversAlgorithmLowerRegisterMinus: 200 & GroversAlgorithmMostFrequentMarked: 180 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 136,216.6848621368408
+grovers_algorithm_m2,3,200,3000,NOISE,Fail,400,3,500,GroversAlgorithmLowerRegisterMinus: 200 & GroversAlgorithmMostFrequentMarked: 122 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 178,216.6848621368408
+grovers_algorithm_m2,3,200,3000,QOIN,Fail,400,3,459,GroversAlgorithmLowerRegisterMinus: 200 & GroversAlgorithmMostFrequentMarked: 63 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 196,216.6848621368408
+grovers_algorithm_m2,3,200,3000,HYBRID,Fail,400,3,410,GroversAlgorithmLowerRegisterMinus: 200 & GroversAlgorithmMostFrequentMarked: 35 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 175,216.6848621368408
+grovers_algorithm_m3,3,200,3000,IDEAL,Fail,499,3,353,GroversAlgorithmLowerRegisterMinus: 2 & GroversAlgorithmMostFrequentMarked: 171 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 180,251.79875874519348
+grovers_algorithm_m3,3,200,3000,NOISE,Fail,499,3,515,GroversAlgorithmLowerRegisterMinus: 187 & GroversAlgorithmMostFrequentMarked: 164 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 164,251.79875874519348
+grovers_algorithm_m3,3,200,3000,QOIN,Fail,499,3,415,GroversAlgorithmLowerRegisterMinus: 79 & GroversAlgorithmMostFrequentMarked: 163 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 173,251.79875874519348
+grovers_algorithm_m3,3,200,3000,HYBRID,Fail,499,3,389,GroversAlgorithmLowerRegisterMinus: 80 & GroversAlgorithmMostFrequentMarked: 154 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 155,251.79875874519348
+grovers_algorithm_m4,3,200,3000,IDEAL,Fail,487,2,351,GroversAlgorithmMostFrequentMarked: 171 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 180,236.380166053772
+grovers_algorithm_m4,3,200,3000,NOISE,Fail,487,3,546,GroversAlgorithmLowerRegisterMinus: 200 & GroversAlgorithmMostFrequentMarked: 170 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 176,236.380166053772
+grovers_algorithm_m4,3,200,3000,QOIN,Fail,487,3,455,GroversAlgorithmLowerRegisterMinus: 111 & GroversAlgorithmMostFrequentMarked: 167 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 177,236.380166053772
+grovers_algorithm_m4,3,200,3000,HYBRID,Fail,487,3,438,GroversAlgorithmLowerRegisterMinus: 111 & GroversAlgorithmMostFrequentMarked: 160 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 167,236.380166053772
+grovers_algorithm_m5,3,200,3000,IDEAL,Fail,463,2,297,GroversAlgorithmMostFrequentMarked: 147 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 150,225.85255360603333
+grovers_algorithm_m5,3,200,3000,NOISE,Fail,463,3,461,GroversAlgorithmLowerRegisterMinus: 150 & GroversAlgorithmMostFrequentMarked: 151 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 160,225.85255360603333
+grovers_algorithm_m5,3,200,3000,QOIN,Fail,463,3,369,GroversAlgorithmLowerRegisterMinus: 59 & GroversAlgorithmMostFrequentMarked: 150 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 160,225.85255360603333
+grovers_algorithm_m5,3,200,3000,HYBRID,Fail,463,3,354,GroversAlgorithmLowerRegisterMinus: 60 & GroversAlgorithmMostFrequentMarked: 145 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 149,225.85255360603333
+grovers_algorithm_m6,3,200,3000,IDEAL,Fail,463,3,342,GroversAlgorithmLowerRegisterMinus: 1 & GroversAlgorithmMostFrequentMarked: 167 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 174,250.9196445941925
+grovers_algorithm_m6,3,200,3000,NOISE,Fail,463,3,470,GroversAlgorithmLowerRegisterMinus: 152 & GroversAlgorithmMostFrequentMarked: 153 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 165,250.9196445941925
+grovers_algorithm_m6,3,200,3000,QOIN,Fail,463,3,382,GroversAlgorithmLowerRegisterMinus: 74 & GroversAlgorithmMostFrequentMarked: 138 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 170,250.9196445941925
+grovers_algorithm_m6,3,200,3000,HYBRID,Fail,463,3,357,GroversAlgorithmLowerRegisterMinus: 74 & GroversAlgorithmMostFrequentMarked: 131 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 152,250.9196445941925
+grovers_algorithm_m7,3,200,3000,IDEAL,Fail,512,3,533,GroversAlgorithmLowerRegisterMinus: 200 & GroversAlgorithmMostFrequentMarked: 164 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 169,242.0164647102356
+grovers_algorithm_m7,3,200,3000,NOISE,Fail,512,3,530,GroversAlgorithmLowerRegisterMinus: 200 & GroversAlgorithmMostFrequentMarked: 149 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 181,242.0164647102356
+grovers_algorithm_m7,3,200,3000,QOIN,Fail,512,3,508,GroversAlgorithmLowerRegisterMinus: 200 & GroversAlgorithmMostFrequentMarked: 141 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 167,242.0164647102356
+grovers_algorithm_m7,3,200,3000,HYBRID,Fail,512,3,493,GroversAlgorithmLowerRegisterMinus: 200 & GroversAlgorithmMostFrequentMarked: 126 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 167,242.0164647102356
+grovers_algorithm_m8,3,200,3000,IDEAL,Fail,480,2,184,GroversAlgorithmMostFrequentMarked: 85 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 99,231.3646674156189
+grovers_algorithm_m8,3,200,3000,NOISE,Fail,480,3,348,GroversAlgorithmLowerRegisterMinus: 175 & GroversAlgorithmMostFrequentMarked: 66 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 107,231.3646674156189
+grovers_algorithm_m8,3,200,3000,QOIN,Fail,480,3,272,GroversAlgorithmLowerRegisterMinus: 80 & GroversAlgorithmMostFrequentMarked: 72 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 120,231.3646674156189
+grovers_algorithm_m8,3,200,3000,HYBRID,Fail,480,3,228,GroversAlgorithmLowerRegisterMinus: 80 & GroversAlgorithmMostFrequentMarked: 47 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 101,231.3646674156189
+grovers_algorithm_m9,3,200,3000,IDEAL,Fail,481,2,316,GroversAlgorithmMostFrequentMarked: 138 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 178,242.21464323997495
+grovers_algorithm_m9,3,200,3000,NOISE,Fail,481,3,448,GroversAlgorithmLowerRegisterMinus: 136 & GroversAlgorithmMostFrequentMarked: 136 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 176,242.21464323997495
+grovers_algorithm_m9,3,200,3000,QOIN,Fail,481,3,387,GroversAlgorithmLowerRegisterMinus: 71 & GroversAlgorithmMostFrequentMarked: 134 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 182,242.21464323997495
+grovers_algorithm_m9,3,200,3000,HYBRID,Fail,481,3,370,GroversAlgorithmLowerRegisterMinus: 73 & GroversAlgorithmMostFrequentMarked: 130 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 167,242.21464323997495
+grovers_algorithm_em0,3,200,3000,IDEAL,Pass,474,0,0,,233.526483297348
+grovers_algorithm_em0,3,200,3000,NOISE,Fail,474,2,248,GroversAlgorithmLowerRegisterMinus: 200 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 48,233.526483297348
+grovers_algorithm_em0,3,200,3000,QOIN,Fail,474,3,122,GroversAlgorithmLowerRegisterMinus: 71 & GroversAlgorithmMostFrequentMarked: 1 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 50,233.526483297348
+grovers_algorithm_em0,3,200,3000,HYBRID,Fail,474,2,111,GroversAlgorithmLowerRegisterMinus: 71 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 40,233.526483297348
+grovers_algorithm_em1,3,200,3000,IDEAL,Pass,502,0,0,,244.1462016105652
+grovers_algorithm_em1,3,200,3000,NOISE,Fail,502,2,199,GroversAlgorithmLowerRegisterMinus: 152 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 47,244.1462016105652
+grovers_algorithm_em1,3,200,3000,QOIN,Fail,502,2,116,GroversAlgorithmLowerRegisterMinus: 62 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 54,244.1462016105652
+grovers_algorithm_em1,3,200,3000,HYBRID,Fail,502,2,102,GroversAlgorithmLowerRegisterMinus: 63 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 39,244.1462016105652
+grovers_algorithm_em2,3,200,3000,IDEAL,Fail,481,1,1,GroversAlgorithmLowerRegisterMinus: 1,228.51901984214783
+grovers_algorithm_em2,3,200,3000,NOISE,Fail,481,2,219,GroversAlgorithmLowerRegisterMinus: 176 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 43,228.51901984214783
+grovers_algorithm_em2,3,200,3000,QOIN,Fail,481,2,106,GroversAlgorithmLowerRegisterMinus: 65 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 41,228.51901984214783
+grovers_algorithm_em2,3,200,3000,HYBRID,Fail,481,2,97,GroversAlgorithmLowerRegisterMinus: 65 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 32,228.51901984214783
+grovers_algorithm_em3,3,200,3000,IDEAL,Pass,491,0,0,,243.74806571006772
+grovers_algorithm_em3,3,200,3000,NOISE,Fail,491,3,229,GroversAlgorithmLowerRegisterMinus: 176 & GroversAlgorithmMostFrequentMarked: 1 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 52,243.74806571006772
+grovers_algorithm_em3,3,200,3000,QOIN,Fail,491,2,119,GroversAlgorithmLowerRegisterMinus: 72 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 47,243.74806571006772
+grovers_algorithm_em3,3,200,3000,HYBRID,Fail,491,2,108,GroversAlgorithmLowerRegisterMinus: 72 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 36,243.74806571006772
+grovers_algorithm_em4,3,200,3000,IDEAL,Pass,485,0,0,,237.00519967079163
+grovers_algorithm_em4,3,200,3000,NOISE,Fail,485,2,221,GroversAlgorithmLowerRegisterMinus: 179 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 42,237.00519967079163
+grovers_algorithm_em4,3,200,3000,QOIN,Fail,485,2,113,GroversAlgorithmLowerRegisterMinus: 74 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 39,237.00519967079163
+grovers_algorithm_em4,3,200,3000,HYBRID,Fail,485,2,106,GroversAlgorithmLowerRegisterMinus: 74 & GroversAlgorithmMostFrequentNotMarkedIfTooManyMarked: 32,237.00519967079163

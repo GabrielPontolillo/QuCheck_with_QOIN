@@ -1,0 +1,61 @@
+Mutant Name,Number of Properties,Number of Inputs,Number of Measurements,Mode,Result,Number of Circuits Executed,Number of Unique Failed Properties,Number of Failed Properties,Unique Failed Properties,Time Taken
+quantum_fourier_transform_m0,3,200,3000,IDEAL,Fail,1812,1,200,IdentityProperty: 200,1416.774254322052
+quantum_fourier_transform_m0,3,200,3000,NOISE,Fail,1812,3,267,IdentityProperty: 121 & LinearShiftToPhaseShift: 75 & PhaseShiftToLinearShift: 71,1416.774254322052
+quantum_fourier_transform_m0,3,200,3000,QOIN,Fail,1812,3,351,IdentityProperty: 139 & LinearShiftToPhaseShift: 97 & PhaseShiftToLinearShift: 115,1416.774254322052
+quantum_fourier_transform_m0,3,200,3000,HYBRID,Fail,1812,3,261,IdentityProperty: 121 & LinearShiftToPhaseShift: 69 & PhaseShiftToLinearShift: 71,1416.774254322052
+quantum_fourier_transform_m1,3,200,3000,IDEAL,Fail,1824,3,600,IdentityProperty: 200 & LinearShiftToPhaseShift: 200 & PhaseShiftToLinearShift: 200,1161.751449584961
+quantum_fourier_transform_m1,3,200,3000,NOISE,Fail,1824,3,557,IdentityProperty: 157 & LinearShiftToPhaseShift: 200 & PhaseShiftToLinearShift: 200,1161.751449584961
+quantum_fourier_transform_m1,3,200,3000,QOIN,Fail,1824,3,559,IdentityProperty: 159 & LinearShiftToPhaseShift: 200 & PhaseShiftToLinearShift: 200,1161.751449584961
+quantum_fourier_transform_m1,3,200,3000,HYBRID,Fail,1824,3,557,IdentityProperty: 157 & LinearShiftToPhaseShift: 200 & PhaseShiftToLinearShift: 200,1161.751449584961
+quantum_fourier_transform_m2,3,200,3000,IDEAL,Fail,1794,1,200,IdentityProperty: 200,1178.7628269195557
+quantum_fourier_transform_m2,3,200,3000,NOISE,Fail,1794,3,251,IdentityProperty: 134 & LinearShiftToPhaseShift: 66 & PhaseShiftToLinearShift: 51,1178.7628269195557
+quantum_fourier_transform_m2,3,200,3000,QOIN,Fail,1794,3,331,IdentityProperty: 153 & LinearShiftToPhaseShift: 87 & PhaseShiftToLinearShift: 91,1178.7628269195557
+quantum_fourier_transform_m2,3,200,3000,HYBRID,Fail,1794,3,242,IdentityProperty: 134 & LinearShiftToPhaseShift: 57 & PhaseShiftToLinearShift: 51,1178.7628269195557
+quantum_fourier_transform_m3,3,200,3000,IDEAL,Fail,1806,2,301,IdentityProperty: 101 & PhaseShiftToLinearShift: 200,1229.5335338115692
+quantum_fourier_transform_m3,3,200,3000,NOISE,Fail,1806,3,362,IdentityProperty: 16 & LinearShiftToPhaseShift: 146 & PhaseShiftToLinearShift: 200,1229.5335338115692
+quantum_fourier_transform_m3,3,200,3000,QOIN,Fail,1806,3,328,IdentityProperty: 54 & LinearShiftToPhaseShift: 74 & PhaseShiftToLinearShift: 200,1229.5335338115692
+quantum_fourier_transform_m3,3,200,3000,HYBRID,Fail,1806,3,290,IdentityProperty: 16 & LinearShiftToPhaseShift: 74 & PhaseShiftToLinearShift: 200,1229.5335338115692
+quantum_fourier_transform_m4,3,200,3000,IDEAL,Fail,1794,2,282,LinearShiftToPhaseShift: 131 & PhaseShiftToLinearShift: 151,1228.1731851100922
+quantum_fourier_transform_m4,3,200,3000,NOISE,Fail,1794,3,311,IdentityProperty: 4 & LinearShiftToPhaseShift: 145 & PhaseShiftToLinearShift: 162,1228.1731851100922
+quantum_fourier_transform_m4,3,200,3000,QOIN,Fail,1794,3,368,IdentityProperty: 74 & LinearShiftToPhaseShift: 131 & PhaseShiftToLinearShift: 163,1228.1731851100922
+quantum_fourier_transform_m4,3,200,3000,HYBRID,Fail,1794,3,285,IdentityProperty: 3 & LinearShiftToPhaseShift: 131 & PhaseShiftToLinearShift: 151,1228.1731851100922
+quantum_fourier_transform_m5,3,200,3000,IDEAL,Fail,1842,2,400,IdentityProperty: 200 & PhaseShiftToLinearShift: 200,1283.7942197322843
+quantum_fourier_transform_m5,3,200,3000,NOISE,Fail,1842,3,506,IdentityProperty: 145 & LinearShiftToPhaseShift: 163 & PhaseShiftToLinearShift: 198,1283.7942197322843
+quantum_fourier_transform_m5,3,200,3000,QOIN,Fail,1842,3,431,IdentityProperty: 148 & LinearShiftToPhaseShift: 83 & PhaseShiftToLinearShift: 200,1283.7942197322843
+quantum_fourier_transform_m5,3,200,3000,HYBRID,Fail,1842,3,426,IdentityProperty: 145 & LinearShiftToPhaseShift: 83 & PhaseShiftToLinearShift: 198,1283.7942197322843
+quantum_fourier_transform_m6,3,200,3000,IDEAL,Fail,1818,2,394,IdentityProperty: 200 & PhaseShiftToLinearShift: 194,1248.3819391727448
+quantum_fourier_transform_m6,3,200,3000,NOISE,Fail,1818,3,444,IdentityProperty: 126 & LinearShiftToPhaseShift: 132 & PhaseShiftToLinearShift: 186,1248.3819391727448
+quantum_fourier_transform_m6,3,200,3000,QOIN,Fail,1818,3,437,IdentityProperty: 152 & LinearShiftToPhaseShift: 85 & PhaseShiftToLinearShift: 200,1248.3819391727448
+quantum_fourier_transform_m6,3,200,3000,HYBRID,Fail,1818,3,397,IdentityProperty: 126 & LinearShiftToPhaseShift: 85 & PhaseShiftToLinearShift: 186,1248.3819391727448
+quantum_fourier_transform_m7,3,200,3000,IDEAL,Fail,1818,2,400,IdentityProperty: 200 & PhaseShiftToLinearShift: 200,1205.400084257126
+quantum_fourier_transform_m7,3,200,3000,NOISE,Fail,1818,3,486,IdentityProperty: 136 & LinearShiftToPhaseShift: 150 & PhaseShiftToLinearShift: 200,1205.400084257126
+quantum_fourier_transform_m7,3,200,3000,QOIN,Fail,1818,3,438,IdentityProperty: 154 & LinearShiftToPhaseShift: 84 & PhaseShiftToLinearShift: 200,1205.400084257126
+quantum_fourier_transform_m7,3,200,3000,HYBRID,Fail,1818,3,425,IdentityProperty: 136 & LinearShiftToPhaseShift: 89 & PhaseShiftToLinearShift: 200,1205.400084257126
+quantum_fourier_transform_m8,3,200,3000,IDEAL,Fail,1830,3,600,IdentityProperty: 200 & LinearShiftToPhaseShift: 200 & PhaseShiftToLinearShift: 200,1200.6145873069763
+quantum_fourier_transform_m8,3,200,3000,NOISE,Fail,1830,3,553,IdentityProperty: 153 & LinearShiftToPhaseShift: 200 & PhaseShiftToLinearShift: 200,1200.6145873069763
+quantum_fourier_transform_m8,3,200,3000,QOIN,Fail,1830,3,555,IdentityProperty: 155 & LinearShiftToPhaseShift: 200 & PhaseShiftToLinearShift: 200,1200.6145873069763
+quantum_fourier_transform_m8,3,200,3000,HYBRID,Fail,1830,3,553,IdentityProperty: 153 & LinearShiftToPhaseShift: 200 & PhaseShiftToLinearShift: 200,1200.6145873069763
+quantum_fourier_transform_m9,3,200,3000,IDEAL,Fail,1836,1,1,PhaseShiftToLinearShift: 1,1306.200296163559
+quantum_fourier_transform_m9,3,200,3000,NOISE,Fail,1836,2,244,LinearShiftToPhaseShift: 134 & PhaseShiftToLinearShift: 110,1306.200296163559
+quantum_fourier_transform_m9,3,200,3000,QOIN,Fail,1836,3,267,IdentityProperty: 49 & LinearShiftToPhaseShift: 91 & PhaseShiftToLinearShift: 127,1306.200296163559
+quantum_fourier_transform_m9,3,200,3000,HYBRID,Fail,1836,2,195,LinearShiftToPhaseShift: 91 & PhaseShiftToLinearShift: 104,1306.200296163559
+quantum_fourier_transform_em0,3,200,3000,IDEAL,Pass,1812,0,0,,1274.0483601093292
+quantum_fourier_transform_em0,3,200,3000,NOISE,Fail,1812,3,253,IdentityProperty: 1 & LinearShiftToPhaseShift: 136 & PhaseShiftToLinearShift: 116,1274.0483601093292
+quantum_fourier_transform_em0,3,200,3000,QOIN,Fail,1812,3,279,IdentityProperty: 65 & LinearShiftToPhaseShift: 90 & PhaseShiftToLinearShift: 124,1274.0483601093292
+quantum_fourier_transform_em0,3,200,3000,HYBRID,Fail,1812,2,202,LinearShiftToPhaseShift: 90 & PhaseShiftToLinearShift: 112,1274.0483601093292
+quantum_fourier_transform_em1,3,200,3000,IDEAL,Pass,1812,0,0,,1415.46803855896
+quantum_fourier_transform_em1,3,200,3000,NOISE,Fail,1812,2,256,LinearShiftToPhaseShift: 132 & PhaseShiftToLinearShift: 124,1415.46803855896
+quantum_fourier_transform_em1,3,200,3000,QOIN,Fail,1812,3,290,IdentityProperty: 66 & LinearShiftToPhaseShift: 94 & PhaseShiftToLinearShift: 130,1415.46803855896
+quantum_fourier_transform_em1,3,200,3000,HYBRID,Fail,1812,2,203,LinearShiftToPhaseShift: 87 & PhaseShiftToLinearShift: 116,1415.46803855896
+quantum_fourier_transform_em2,3,200,3000,IDEAL,Pass,1824,0,0,,1255.022936105728
+quantum_fourier_transform_em2,3,200,3000,NOISE,Fail,1824,3,232,IdentityProperty: 1 & LinearShiftToPhaseShift: 117 & PhaseShiftToLinearShift: 114,1255.022936105728
+quantum_fourier_transform_em2,3,200,3000,QOIN,Fail,1824,3,284,IdentityProperty: 58 & LinearShiftToPhaseShift: 83 & PhaseShiftToLinearShift: 143,1255.022936105728
+quantum_fourier_transform_em2,3,200,3000,HYBRID,Fail,1824,3,189,IdentityProperty: 1 & LinearShiftToPhaseShift: 79 & PhaseShiftToLinearShift: 109,1255.022936105728
+quantum_fourier_transform_em3,3,200,3000,IDEAL,Pass,1854,0,0,,1338.18447971344
+quantum_fourier_transform_em3,3,200,3000,NOISE,Fail,1854,2,262,LinearShiftToPhaseShift: 146 & PhaseShiftToLinearShift: 116,1338.18447971344
+quantum_fourier_transform_em3,3,200,3000,QOIN,Fail,1854,3,298,IdentityProperty: 57 & LinearShiftToPhaseShift: 86 & PhaseShiftToLinearShift: 155,1338.18447971344
+quantum_fourier_transform_em3,3,200,3000,HYBRID,Fail,1854,2,191,LinearShiftToPhaseShift: 86 & PhaseShiftToLinearShift: 105,1338.18447971344
+quantum_fourier_transform_em4,3,200,3000,IDEAL,Pass,1818,0,0,,1483.5030479431152
+quantum_fourier_transform_em4,3,200,3000,NOISE,Fail,1818,3,281,IdentityProperty: 1 & LinearShiftToPhaseShift: 148 & PhaseShiftToLinearShift: 132,1483.5030479431152
+quantum_fourier_transform_em4,3,200,3000,QOIN,Fail,1818,3,273,IdentityProperty: 56 & LinearShiftToPhaseShift: 90 & PhaseShiftToLinearShift: 127,1483.5030479431152
+quantum_fourier_transform_em4,3,200,3000,HYBRID,Fail,1818,3,211,IdentityProperty: 1 & LinearShiftToPhaseShift: 91 & PhaseShiftToLinearShift: 119,1483.5030479431152

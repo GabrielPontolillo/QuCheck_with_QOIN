@@ -1,0 +1,61 @@
+Mutant Name,Number of Properties,Number of Inputs,Number of Measurements,Mode,Result,Number of Circuits Executed,Number of Unique Failed Properties,Number of Failed Properties,Unique Failed Properties,Time Taken
+deutsch_jozsa_m0,3,200,3000,IDEAL,Fail,1007,2,271,DeutschJozsaWorksForBalancedFunction: 71 & DeutschJozsaWorksForConstantFunction: 200,69.53579068183899
+deutsch_jozsa_m0,3,200,3000,NOISE,Fail,1007,3,272,DeutschJozsaLowerRegisterMinus: 7 & DeutschJozsaWorksForBalancedFunction: 65 & DeutschJozsaWorksForConstantFunction: 200,69.53579068183899
+deutsch_jozsa_m0,3,200,3000,QOIN,Fail,1007,2,271,DeutschJozsaWorksForBalancedFunction: 71 & DeutschJozsaWorksForConstantFunction: 200,69.53579068183899
+deutsch_jozsa_m0,3,200,3000,HYBRID,Fail,1007,2,265,DeutschJozsaWorksForBalancedFunction: 65 & DeutschJozsaWorksForConstantFunction: 200,69.53579068183899
+deutsch_jozsa_m1,3,200,3000,IDEAL,Pass,1007,0,0,,66.47758865356445
+deutsch_jozsa_m1,3,200,3000,NOISE,Fail,1007,1,4,DeutschJozsaLowerRegisterMinus: 4,66.47758865356445
+deutsch_jozsa_m1,3,200,3000,QOIN,Pass,1007,0,0,,66.47758865356445
+deutsch_jozsa_m1,3,200,3000,HYBRID,Pass,1007,0,0,,66.47758865356445
+deutsch_jozsa_m2,3,200,3000,IDEAL,Pass,1007,0,0,,67.95778846740723
+deutsch_jozsa_m2,3,200,3000,NOISE,Pass,1007,0,0,,67.95778846740723
+deutsch_jozsa_m2,3,200,3000,QOIN,Fail,1007,1,2,DeutschJozsaLowerRegisterMinus: 2,67.95778846740723
+deutsch_jozsa_m2,3,200,3000,HYBRID,Pass,1007,0,0,,67.95778846740723
+deutsch_jozsa_m3,3,200,3000,IDEAL,Fail,1007,1,200,DeutschJozsaWorksForConstantFunction: 200,65.82220482826233
+deutsch_jozsa_m3,3,200,3000,NOISE,Fail,1007,1,200,DeutschJozsaWorksForConstantFunction: 200,65.82220482826233
+deutsch_jozsa_m3,3,200,3000,QOIN,Fail,1007,1,200,DeutschJozsaWorksForConstantFunction: 200,65.82220482826233
+deutsch_jozsa_m3,3,200,3000,HYBRID,Fail,1007,1,200,DeutschJozsaWorksForConstantFunction: 200,65.82220482826233
+deutsch_jozsa_m4,3,200,3000,IDEAL,Fail,1007,1,200,DeutschJozsaWorksForConstantFunction: 200,65.27966380119324
+deutsch_jozsa_m4,3,200,3000,NOISE,Fail,1007,1,200,DeutschJozsaWorksForConstantFunction: 200,65.27966380119324
+deutsch_jozsa_m4,3,200,3000,QOIN,Fail,1007,2,201,DeutschJozsaLowerRegisterMinus: 1 & DeutschJozsaWorksForConstantFunction: 200,65.27966380119324
+deutsch_jozsa_m4,3,200,3000,HYBRID,Fail,1007,1,200,DeutschJozsaWorksForConstantFunction: 200,65.27966380119324
+deutsch_jozsa_m5,3,200,3000,IDEAL,Fail,1007,1,200,DeutschJozsaWorksForConstantFunction: 200,66.65264701843262
+deutsch_jozsa_m5,3,200,3000,NOISE,Fail,1007,1,200,DeutschJozsaWorksForConstantFunction: 200,66.65264701843262
+deutsch_jozsa_m5,3,200,3000,QOIN,Fail,1007,1,200,DeutschJozsaWorksForConstantFunction: 200,66.65264701843262
+deutsch_jozsa_m5,3,200,3000,HYBRID,Fail,1007,1,200,DeutschJozsaWorksForConstantFunction: 200,66.65264701843262
+deutsch_jozsa_m6,3,200,3000,IDEAL,Fail,1007,2,400,DeutschJozsaLowerRegisterMinus: 200 & DeutschJozsaWorksForConstantFunction: 200,66.5753288269043
+deutsch_jozsa_m6,3,200,3000,NOISE,Fail,1007,2,400,DeutschJozsaLowerRegisterMinus: 200 & DeutschJozsaWorksForConstantFunction: 200,66.5753288269043
+deutsch_jozsa_m6,3,200,3000,QOIN,Fail,1007,2,400,DeutschJozsaLowerRegisterMinus: 200 & DeutschJozsaWorksForConstantFunction: 200,66.5753288269043
+deutsch_jozsa_m6,3,200,3000,HYBRID,Fail,1007,2,400,DeutschJozsaLowerRegisterMinus: 200 & DeutschJozsaWorksForConstantFunction: 200,66.5753288269043
+deutsch_jozsa_m7,3,200,3000,IDEAL,Pass,1007,0,0,,67.4361424446106
+deutsch_jozsa_m7,3,200,3000,NOISE,Fail,1007,1,2,DeutschJozsaLowerRegisterMinus: 2,67.4361424446106
+deutsch_jozsa_m7,3,200,3000,QOIN,Pass,1007,0,0,,67.4361424446106
+deutsch_jozsa_m7,3,200,3000,HYBRID,Pass,1007,0,0,,67.4361424446106
+deutsch_jozsa_m8,3,200,3000,IDEAL,Fail,1007,2,400,DeutschJozsaLowerRegisterMinus: 200 & DeutschJozsaWorksForConstantFunction: 200,68.71348857879639
+deutsch_jozsa_m8,3,200,3000,NOISE,Fail,1007,2,400,DeutschJozsaLowerRegisterMinus: 200 & DeutschJozsaWorksForConstantFunction: 200,68.71348857879639
+deutsch_jozsa_m8,3,200,3000,QOIN,Fail,1007,2,400,DeutschJozsaLowerRegisterMinus: 200 & DeutschJozsaWorksForConstantFunction: 200,68.71348857879639
+deutsch_jozsa_m8,3,200,3000,HYBRID,Fail,1007,2,400,DeutschJozsaLowerRegisterMinus: 200 & DeutschJozsaWorksForConstantFunction: 200,68.71348857879639
+deutsch_jozsa_m9,3,200,3000,IDEAL,Fail,1007,1,200,DeutschJozsaWorksForConstantFunction: 200,65.94820213317871
+deutsch_jozsa_m9,3,200,3000,NOISE,Fail,1007,1,200,DeutschJozsaWorksForConstantFunction: 200,65.94820213317871
+deutsch_jozsa_m9,3,200,3000,QOIN,Fail,1007,1,200,DeutschJozsaWorksForConstantFunction: 200,65.94820213317871
+deutsch_jozsa_m9,3,200,3000,HYBRID,Fail,1007,1,200,DeutschJozsaWorksForConstantFunction: 200,65.94820213317871
+deutsch_jozsa_em0,3,200,3000,IDEAL,Pass,1007,0,0,,68.55218768119812
+deutsch_jozsa_em0,3,200,3000,NOISE,Pass,1007,0,0,,68.55218768119812
+deutsch_jozsa_em0,3,200,3000,QOIN,Fail,1007,1,2,DeutschJozsaLowerRegisterMinus: 2,68.55218768119812
+deutsch_jozsa_em0,3,200,3000,HYBRID,Pass,1007,0,0,,68.55218768119812
+deutsch_jozsa_em1,3,200,3000,IDEAL,Pass,1007,0,0,,68.1622965335846
+deutsch_jozsa_em1,3,200,3000,NOISE,Fail,1007,1,4,DeutschJozsaLowerRegisterMinus: 4,68.1622965335846
+deutsch_jozsa_em1,3,200,3000,QOIN,Pass,1007,0,0,,68.1622965335846
+deutsch_jozsa_em1,3,200,3000,HYBRID,Pass,1007,0,0,,68.1622965335846
+deutsch_jozsa_em2,3,200,3000,IDEAL,Pass,1007,0,0,,69.53178286552429
+deutsch_jozsa_em2,3,200,3000,NOISE,Pass,1007,0,0,,69.53178286552429
+deutsch_jozsa_em2,3,200,3000,QOIN,Pass,1007,0,0,,69.53178286552429
+deutsch_jozsa_em2,3,200,3000,HYBRID,Pass,1007,0,0,,69.53178286552429
+deutsch_jozsa_em3,3,200,3000,IDEAL,Pass,1007,0,0,,70.08138108253479
+deutsch_jozsa_em3,3,200,3000,NOISE,Pass,1007,0,0,,70.08138108253479
+deutsch_jozsa_em3,3,200,3000,QOIN,Pass,1007,0,0,,70.08138108253479
+deutsch_jozsa_em3,3,200,3000,HYBRID,Pass,1007,0,0,,70.08138108253479
+deutsch_jozsa_em4,3,200,3000,IDEAL,Pass,1007,0,0,,67.83587646484375
+deutsch_jozsa_em4,3,200,3000,NOISE,Fail,1007,1,1,DeutschJozsaLowerRegisterMinus: 1,67.83587646484375
+deutsch_jozsa_em4,3,200,3000,QOIN,Pass,1007,0,0,,67.83587646484375
+deutsch_jozsa_em4,3,200,3000,HYBRID,Pass,1007,0,0,,67.83587646484375
